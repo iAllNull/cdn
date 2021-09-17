@@ -1,2 +1,2 @@
 # cdn
-cdn加速
+AllNull的CDN加速库
